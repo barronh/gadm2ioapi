@@ -1,0 +1,6 @@
+{
+    "NorthAmerica": ["United States", "Canada", "Mexico"],
+    "USA": ["United States"],
+    "CAN": ["Canada"],
+    "MEX": ["Mexico"]
+}
